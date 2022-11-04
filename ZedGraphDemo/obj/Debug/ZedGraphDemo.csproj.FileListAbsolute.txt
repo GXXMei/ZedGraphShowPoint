@@ -1,0 +1,11 @@
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\bin\Debug\ZedGraphDemo.exe.config
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\bin\Debug\ZedGraphDemo.exe
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\bin\Debug\ZedGraphDemo.pdb
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\obj\Debug\ZedGraphDemo.csproj.AssemblyReference.cache
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\obj\Debug\ZedGraphDemo.ZedGraphDemo.resources
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\obj\Debug\ZedGraphDemo.Properties.Resources.resources
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\obj\Debug\ZedGraphDemo.csproj.GenerateResource.cache
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\obj\Debug\ZedGraphDemo.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\obj\Debug\ZedGraphDemo.csproj.CopyComplete
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\obj\Debug\ZedGraphDemo.exe
+E:\Projects\CSharp\ZedGraphDemo\ZedGraphDemo\obj\Debug\ZedGraphDemo.pdb
